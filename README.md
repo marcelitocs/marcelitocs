@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Marcelito Costa
 - 👀 I’m interested in staying on top of the latest in the tech world
-- 🌱 I’m currently learning rustlang and react native
+- 👨🏻‍💻 I work as a full stack developer, but I love backend
 - 💞️ I’m looking to collaborate on large scale projects
 - 📫 You can reach me at @marcelitocs on instagram
 
